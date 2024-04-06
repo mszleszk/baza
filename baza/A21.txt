@@ -1,0 +1,6 @@
+X0100
+Do zbudowania grafu przepływu (struktury) filtru cyfrowego nie jest potrzebny element
+sumujący 2 próbki
+rotujący
+mnożący próbkę przez liczbę rzeczywistą
+opóźniający

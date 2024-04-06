@@ -1,0 +1,5 @@
+X010
+Jeżeli sygnał został spróbkowany z częstotliwością fs, to jego dyskretne widmo w dziedzinie częstotliwości jest powielane co
+fs/2
+fs
+k = fs/2

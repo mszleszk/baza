@@ -1,0 +1,4 @@
+X01
+Jeśli na wejście filtru modelującego podamy sygnał białego szumu (inny niż sygnał błędu filtru innowacyjnego) to na wyjściu filtru modelującego pojawi sie sygnał, który jest zgodny z sygnałem na wejściu filtru innowacyjnego
+"próbka w próbkę"
+tylko pod względem statystyk drugiego rzędu

@@ -1,0 +1,4 @@
+Y233
+W przyrodzie występują {wybór 1}. Sygnały te charakteryzują się tym, że mogą przyjmować {wybór 2} w całym swoim zakresie.
+sygnały dyskretne;;sygnały cyfrowe;;sygnały ciągłe;;sygnały losowe;;
+tylko wybrane wartości;;cyfrowe wartości;;nieskończenie wiele wartości;;losowe wartości;;
